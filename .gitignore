@@ -320,15 +320,7 @@ ASALocalRun/
 
 # MSBuild Binary and Structured Log
 *.binlog
-/KDI.GSN.Management/KDI.GSN.Management.Client/build
-/DatabaseUtility/package-lock.json
-/DatabaseUtility/build
-/DatabaseUtility/dist
-/KDI.GSN.Management/KDI.GSN.Management.Api/build
 .npmrc
-/KDI.GSN.Management/KDI.GSN.Management.Client/package-lock.json
-/KDI.GSN.Management/Kognifai.SSP.GSN.API.SelfHost/build/net462
-/KDI.GSN.Management/Kognifai.SSP.GSN.Jobs.Service/build
-/KDI.GSN.Management/Kognifai.GSN.UserManagement.UI/build
-/KDI.GSN.Management/AuditTrailSeeder/build
-/KDI.GSN.Management/SNMPTester/build
+
+
+package-lock.json
